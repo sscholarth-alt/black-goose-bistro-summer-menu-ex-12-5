@@ -30,7 +30,21 @@ dt strong {
     color: rgb(51, 165, 165);
 }
 
+#info p {
+    font-style: italic;
+}
+
+.label {
+    font-variant: small-caps;
+    font-style: normal;
+}
+
 p.warning {
     color: red;
     font-size: small;
+}
+
+.price {
+    font-style: italic;
+    color: grey;
 }
